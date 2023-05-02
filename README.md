@@ -155,7 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Amadu Hamza - [Github](https://github.com/Amadu9933) / [Email](amaduhamzajaarah300@gmail.com)  
-Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
+engineerphoenix - [Github](https://github.com/Abd-al-qudus) / [Email](jimohqudus86@gmail.com)
 
 Second part of Airbnb: Joann Vuong
 ## License
