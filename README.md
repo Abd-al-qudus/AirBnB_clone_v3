@@ -213,8 +213,7 @@ github repo
 ## Authors
 
 * Amadu Hamza, [Github](https://github.com/Amadu99) [Email](amaduhamzajaarah300@gmail.com)
-* engineeringfonix, [Github](https://github.com/Abd-al-qudus)
-
+* Jimoh Qudus engineeringfonix, [Github](https://github.com/Abd-al-qudus) [Email](jimohqudu86@mail.com)
 
 ## License
 
