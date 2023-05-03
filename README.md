@@ -2,7 +2,7 @@
 
 # AirBnB Clone: Phase # 3
 
-: API with Swagger
+
 
 ## Description
 
@@ -213,7 +213,7 @@ github repo
 ## Authors
 
 * Amadu Hamza, [Github](https://github.com/Amadu99) [Email](amaduhamzajaarah300@gmail.com)
-* Jimoh Qudus engineeringfonix, [Github](https://github.com/Abd-al-qudus) [Email](jimohqudu86@mail.com)
+* Jimoh Qudus engineerphoenix [Github](https://github.com/Abd-al-qudus) [Email](jimohqudu86@mail.com)
 
 ## License
 
